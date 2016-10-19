@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: WooCommerce Regiones de Chile
-* Plugin URI: http://woocommerce.com/products/woocommerce-extension/
+* Plugin URI: https://cl.wordpress.org/plugins/woocommerce-regiones-de-chile/
 * Description: Plugins para agregar las regiones a woocommerce y ocultar el codigo postal
 * Version: 1.0.0
 * Author: Javier Alexis
